@@ -98,6 +98,6 @@ if __name__ == "__main__":
 
 ## 5. 최종 실행 및 디버깅
 ```bash
-python myFirstCode.py
+python app.py
 ```
 - `F5` 또는 `Ctrl+F5` 로 프로그램 실행
